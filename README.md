@@ -1,2 +1,2 @@
 # RNN_Digit_Adder
-Simple RNN model to generate and add digits 
+Simple RNN model to generate digits in string  and add them
